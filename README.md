@@ -5,3 +5,4 @@ Node.js files demonstrating:-
 4. Modules: Creating and using modules (module_a.js)
 5. OS Module: Getting OS info (os.js)
 6. Dependencies: package.json and package-lock.json for managing project dependencies.
+NOTE: index.js file is created in the views.
