@@ -29,5 +29,3 @@ This repository contains codes exploring fundamental Node.js concepts. It covers
 * **mylife.txt:** A simple text file used for file read/write examples.
     
 * _Note: While the files demonstrate Express and package.json includes ejs, there isn't a file explicitly focused on EJS templating in this set._
-
-* _Note: while the files
